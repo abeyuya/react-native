@@ -16,7 +16,6 @@
     "outputName": "js-test-results.xml"
   },
   "files": [
-    "android",
     "!template/node_modules",
     "!template/package-lock.json",
     "!template/yarn.lock",
