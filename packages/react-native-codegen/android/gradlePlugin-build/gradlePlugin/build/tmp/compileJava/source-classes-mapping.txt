@@ -1,0 +1,101 @@
+com/facebook/react/codegen/generator/model/TypeId.java
+ com.facebook.react.codegen.generator.model.TypeId
+com/facebook/react/codegen/generator/resolver/PromiseResolvedType.java
+ com.facebook.react.codegen.generator.resolver.PromiseResolvedType
+com/facebook/react/codegen/generator/resolver/ReactClassNames.java
+ com.facebook.react.codegen.generator.resolver.ReactClassNames
+com/facebook/react/codegen/generator/resolver/NativeModuleResolvedType.java
+ com.facebook.react.codegen.generator.resolver.NativeModuleResolvedType
+com/facebook/react/codegen/generator/resolver/Annotations.java
+ com.facebook.react.codegen.generator.resolver.Annotations
+com/facebook/react/codegen/generator/model/ArrayType.java
+ com.facebook.react.codegen.generator.model.ArrayType
+com/facebook/react/codegen/generator/resolver/ResolvedType.java
+ com.facebook.react.codegen.generator.resolver.ResolvedType
+ com.facebook.react.codegen.generator.resolver.ResolvedType$NativeTypeContext
+com/facebook/react/codegen/generator/resolver/GenericObjectResolvedType.java
+ com.facebook.react.codegen.generator.resolver.GenericObjectResolvedType
+ com.facebook.react.codegen.generator.resolver.GenericObjectResolvedType$1
+com/facebook/react/codegen/generator/SchemaJsonParser.java
+ com.facebook.react.codegen.generator.SchemaJsonParser
+com/facebook/react/codegen/generator/resolver/ReservedFunctionValueResolvedType.java
+ com.facebook.react.codegen.generator.resolver.ReservedFunctionValueResolvedType
+ com.facebook.react.codegen.generator.resolver.ReservedFunctionValueResolvedType$1
+com/facebook/react/codegen/generator/model/ReservedFunctionValueType.java
+ com.facebook.react.codegen.generator.model.ReservedFunctionValueType
+ com.facebook.react.codegen.generator.model.ReservedFunctionValueType$ReservedName
+com/facebook/react/codegen/generator/model/AnyType.java
+ com.facebook.react.codegen.generator.model.AnyType
+com/facebook/react/codegen/generator/resolver/AliasResolvedType.java
+ com.facebook.react.codegen.generator.resolver.AliasResolvedType
+com/facebook/react/codegen/generator/resolver/NullableResolvedType.java
+ com.facebook.react.codegen.generator.resolver.NullableResolvedType
+com/facebook/react/codegen/generator/resolver/ArrayResolvedType.java
+ com.facebook.react.codegen.generator.resolver.ArrayResolvedType
+ com.facebook.react.codegen.generator.resolver.ArrayResolvedType$1
+com/facebook/react/codegen/generator/resolver/BooleanResolvedType.java
+ com.facebook.react.codegen.generator.resolver.BooleanResolvedType
+com/facebook/react/codegen/generator/resolver/FunctionResolvedType.java
+ com.facebook.react.codegen.generator.resolver.FunctionResolvedType
+com/facebook/react/codegen/generator/model/DoubleType.java
+ com.facebook.react.codegen.generator.model.DoubleType
+com/facebook/react/codegen/generator/model/NullableType.java
+ com.facebook.react.codegen.generator.model.NullableType
+com/facebook/react/codegen/plugin/CodegenPluginExtension.java
+ com.facebook.react.codegen.plugin.CodegenPluginExtension
+com/facebook/react/codegen/generator/model/CodegenException.java
+ com.facebook.react.codegen.generator.model.CodegenException
+com/facebook/react/codegen/generator/model/TypeData.java
+ com.facebook.react.codegen.generator.model.TypeData
+com/facebook/react/codegen/generator/model/GenericObjectType.java
+ com.facebook.react.codegen.generator.model.GenericObjectType
+com/facebook/react/codegen/generator/model/ObjectType.java
+ com.facebook.react.codegen.generator.model.ObjectType
+ com.facebook.react.codegen.generator.model.ObjectType$Property
+com/facebook/react/codegen/generator/resolver/TypeUtils.java
+ com.facebook.react.codegen.generator.resolver.TypeUtils
+com/facebook/react/codegen/generator/resolver/TypeResolver.java
+ com.facebook.react.codegen.generator.resolver.TypeResolver
+com/facebook/react/codegen/plugin/CodegenPlugin.java
+ com.facebook.react.codegen.plugin.CodegenPlugin
+com/facebook/react/codegen/generator/model/NumberType.java
+ com.facebook.react.codegen.generator.model.NumberType
+com/facebook/react/codegen/generator/resolver/StringResolvedType.java
+ com.facebook.react.codegen.generator.resolver.StringResolvedType
+com/facebook/react/codegen/generator/resolver/AnyResolvedType.java
+ com.facebook.react.codegen.generator.resolver.AnyResolvedType
+ com.facebook.react.codegen.generator.resolver.AnyResolvedType$1
+com/facebook/react/codegen/generator/model/AliasType.java
+ com.facebook.react.codegen.generator.model.AliasType
+com/facebook/react/codegen/generator/model/Int32Type.java
+ com.facebook.react.codegen.generator.model.Int32Type
+com/facebook/react/codegen/generator/model/FloatType.java
+ com.facebook.react.codegen.generator.model.FloatType
+com/facebook/react/codegen/generator/model/VoidType.java
+ com.facebook.react.codegen.generator.model.VoidType
+com/facebook/react/codegen/generator/model/BooleanType.java
+ com.facebook.react.codegen.generator.model.BooleanType
+com/facebook/react/codegen/generator/resolver/ObjectResolvedType.java
+ com.facebook.react.codegen.generator.resolver.ObjectResolvedType
+ com.facebook.react.codegen.generator.resolver.ObjectResolvedType$1
+com/facebook/react/codegen/generator/model/NativeModuleType.java
+ com.facebook.react.codegen.generator.model.NativeModuleType
+ com.facebook.react.codegen.generator.model.NativeModuleType$Property
+com/facebook/react/codegen/generator/model/FunctionType.java
+ com.facebook.react.codegen.generator.model.FunctionType
+ com.facebook.react.codegen.generator.model.FunctionType$1
+ com.facebook.react.codegen.generator.model.FunctionType$ArgumentType
+com/facebook/react/codegen/generator/JavaGenerator.java
+ com.facebook.react.codegen.generator.JavaGenerator
+com/facebook/react/codegen/generator/resolver/NumberResolvedType.java
+ com.facebook.react.codegen.generator.resolver.NumberResolvedType
+com/facebook/react/codegen/generator/model/PromiseType.java
+ com.facebook.react.codegen.generator.model.PromiseType
+com/facebook/react/codegen/generator/resolver/ClassNames.java
+ com.facebook.react.codegen.generator.resolver.ClassNames
+com/facebook/react/codegen/generator/model/StringType.java
+ com.facebook.react.codegen.generator.model.StringType
+com/facebook/react/codegen/generator/resolver/VoidResolvedType.java
+ com.facebook.react.codegen.generator.resolver.VoidResolvedType
+com/facebook/react/codegen/generator/model/Type.java
+ com.facebook.react.codegen.generator.model.Type
